@@ -4,23 +4,23 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  About Amy Williams' professional website
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Amy is a Ph.D. Candidate in Behavioral Neuroscience at Oregon Health & Science University. Currently, she holds a B.S. in Biopsychology at University of California, Santa Barbara. Amy researches learning theory and the epigenetic control of learning. Amy was the recipient of the ARCS Scholarship and N.L. Tartar Trust Fellowship. She is also heavily involved in conference programming for the 2017 OHSU Research Week. Read more about Amy on here departmental webpage and her LinkedIn profile: linkedin.com/in/amy-williams-20a01758. This website was made to represent here professional life.
 
-There are currently two themes built on Poole:
+You can see more about here at these site:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [LinkedIn](http://linkedin.com/in/amy-williams-20a01758)
+* [Twitter](https://twitter.com/fREYwilly1)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## Fun facts
 
-Some fun facts about the setup of this project include:
+Some fun facts about Amy:
 
-* Built for [Jekyll](http://jekyllrb.com)
+* Born in LA [UCLA](http://www.ucla.edu/)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
 * Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
